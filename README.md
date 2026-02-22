@@ -8,13 +8,10 @@ https://public.tableau.com/app/profile/anoop.singh3925/viz/SalesDashboardProject
 
 ## 🎯 Objectives
 
-Analyze overall sales performance and YoY trends
-
-Identify top-performing customers and segments
-
-Monitor key KPIs such as total revenue, order value, and customer contribution
-
-Provide a decision-ready view for business stakeholders
+  Analyze overall sales performance and YoY trends
+  Identify top-performing customers and segments
+  Monitor key KPIs such as total revenue, order value, and customer contribution
+  Provide a decision-ready view for business stakeholders
 
 ## 📌 Key Features
 
@@ -26,26 +23,25 @@ Provide a decision-ready view for business stakeholders
 
 ## 🛠️ Tools & Technologies
 
-Tableau Public – Dashboard development and visualization
-SQL – Data preparation and transformation
-Excel / ERP data extracts – Source data
+  Tableau Public – Dashboard development and visualization
+  SQL – Data preparation and transformation
+  Excel / ERP data extracts – Source data
 
 ## 📈 Business Insights Enabled
 
-Identifies high-value customers driving revenue
-Highlights sales growth patterns over time
-Supports targeted sales and customer strategies
-Enables quick performance monitoring for leadership
+  Identifies high-value customers driving revenue
+  Highlights sales growth patterns over time
+  Supports targeted sales and customer strategies
+  Enables quick performance monitoring for leadership
 
 ## 📂 Repository Contents
 
-Tableau dashboard screenshots
-Data preparation logic (SQL)
-Documentation of KPIs and calculations
+  Tableau dashboard screenshots
+  Data preparation logic (SQL)
+  Documentation of KPIs and calculations
 
 ## 👤 Author
-Anoop Singh
-ERP Techno-Functional Consultant | Data Migration | SQL Analytics | Tableau
+  Anoop Singh
+  ERP Techno-Functional Consultant | Data Migration | SQL Analytics | Tableau
+🔗 Tableau Public Profile: https://public.tableau.com/app/profile/anoop.singh3925
 
-## 🔗 Tableau Public Profile:
-https://public.tableau.com/app/profile/anoop.singh3925
