@@ -1,12 +1,12 @@
-## 📊 Sales & Customer Analytics Dashboard – Tableau
-#🔍 Project Overview
+# 📊 Sales & Customer Analytics Dashboard – Tableau
+## 🔍 Project Overview
 
 This project presents an interactive Sales and Customer Analytics Dashboard built in Tableau, designed to provide insights into revenue performance, customer behavior, and key business KPIs. The dashboard enables stakeholders to track trends, identify high-value customers, and monitor sales growth across time.
 
-# 🔗 Live Dashboard:
+## 🔗 Live Dashboard:
 https://public.tableau.com/app/profile/anoop.singh3925/viz/SalesDashboardProject_17712719662440/SalesDashboard
 
-# 🎯 Objectives
+## 🎯 Objectives
 
 Analyze overall sales performance and YoY trends
 
@@ -16,7 +16,7 @@ Monitor key KPIs such as total revenue, order value, and customer contribution
 
 Provide a decision-ready view for business stakeholders
 
-# 📌 Key Features
+## 📌 Key Features
 
   KPI cards for Total Sales, Orders, and Customers
   Time-series analysis for revenue trends
@@ -24,28 +24,28 @@ Provide a decision-ready view for business stakeholders
   Customer segmentation for performance comparison
   Interactive filters for dynamic exploration
 
-# 🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
 
 Tableau Public – Dashboard development and visualization
 SQL – Data preparation and transformation
 Excel / ERP data extracts – Source data
 
-# 📈 Business Insights Enabled
+## 📈 Business Insights Enabled
 
 Identifies high-value customers driving revenue
 Highlights sales growth patterns over time
 Supports targeted sales and customer strategies
 Enables quick performance monitoring for leadership
 
-# 📂 Repository Contents
+## 📂 Repository Contents
 
 Tableau dashboard screenshots
 Data preparation logic (SQL)
 Documentation of KPIs and calculations
 
-# 👤 Author
+## 👤 Author
 Anoop Singh
 ERP Techno-Functional Consultant | Data Migration | SQL Analytics | Tableau
 
-# 🔗 Tableau Public Profile:
+## 🔗 Tableau Public Profile:
 https://public.tableau.com/app/profile/anoop.singh3925
